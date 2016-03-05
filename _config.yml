@@ -1,7 +1,7 @@
 name: CIX
 favicon: null
-layout_spectrum: 0.05831314227543771
-typography_spectrum: 0.40740988845936954
+layout_spectrum: 1
+typography_spectrum: 0.12019
 cta:
   domain: null
   bucket: null
